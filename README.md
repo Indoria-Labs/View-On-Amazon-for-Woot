@@ -12,7 +12,7 @@ A lightweight, privacy-focused browser extension that adds a convenient "View on
 
 ### The Problem
 
-Shopping on Woot.com is great for deals, but finding the original Amazon product to read full reviews or check other buying options can be a chore. You have to find the ratings link, open it, and then manually edit the URL to get to the Amazon page. This extension solves that.
+Shopping on Woot.com is great for deals, but finding the original Amazon product to read full reviews, pictures, product details provided by the manufacturer or checking other buying options can be a chore. You have to find the ratings link, open it, and then manually edit the URL to get to the Amazon page. This extension solves that.
 
 ### The Solution
 
@@ -73,11 +73,7 @@ Or, download the ZIP and extract it to a folder on your computer.
 
 ## Privacy Policy
 
-This extension is built with privacy as a top priority. It does not collect, store, or transmit any personal data. It does not track your Browse activity. Its code runs entirely locally in your browser and only activates on woot.com/offers/ pages.
-
-Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+We do not collect, store, or transmit any personal data. The extension does not track your Browse activity. Its code runs entirely locally in your browser and only activates on woot.com/offers/ pages.
 
 License
 
