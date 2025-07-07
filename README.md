@@ -29,8 +29,8 @@ This extension automatically scans Woot product offer pages and inserts a simple
 
 Once approved, you will be able to install this extension directly from the official browser stores. This is the easiest and safest method.
 
-* [**Get it for Chrome**](https://your-chrome-store-link-here) : Pending Approval
-* [**Get it for Firefox**](https://your-firefox-store-link-here): Pending Approval
+* [**Get it for Chrome**](https://chromewebstore.google.com/detail/view-on-amazon-for-woot/cabpeeibklpgeokimmehnmlalpiifkbc)
+* [**Get it for Firefox**](https://addons.mozilla.org/en-US/firefox/addon/view-on-amazon-for-woot/)
 
 ### 2. Sideloading for Development / Testing
 
